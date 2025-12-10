@@ -1,8 +1,8 @@
 {
 	"meta": {
-		"title": "chiveblog",
-		"description": "chiveblog 的个人博客，记录前端开发、探索、笔记。前端 UI 更新代码仓库。",
-		"username": "chive"
+		"title": "Chiveblog",
+		"description": "Chiveblog 的个人博客，记录前端开发、探索、笔记。前端 UI 更新代码仓库。",
+		"username": "Chive"
 	},
 	"theme": {
 		"colorBrand": "#de4331",
@@ -44,7 +44,7 @@
 		{
 			"id": "github",
 			"type": "github",
-			"value": "https://github.com/yysuni",
+			"value": "https://github.com/chivecubic-arch",
 			"label": "Github",
 			"order": 3
 		},
@@ -58,7 +58,7 @@
 		{
 			"id": "email",
 			"type": "email",
-			"value": "yysuni1001@gmail.com",
+			"value": "chivecubic@gmail.com",
 			"label": "",
 			"order": 1
 		}
