@@ -8,7 +8,7 @@ import { CircleCheckIcon, InfoIcon, Loader2Icon, OctagonXIcon, TriangleAlertIcon
 import { useSize, useSizeInit } from '@/hooks/use-size'
 import { useConfigStore } from '@/app/(home)/stores/config-store'
 import { ScrollTopButton } from '@/components/scroll-top-button'
-const LiquidGrass = dynamic(() => import('@/components/liquid-grass'), { ssr: false })
+
 export default function Layout({ children }: PropsWithChildren) {
 	useCenterInit()
 	useSizeInit()
@@ -50,7 +50,7 @@ export default function Layout({ children }: PropsWithChildren) {
 						backgroundRepeat: 'no-repeat'
 					}}
 				/>
-			)}<LiquidGrass />
+			)}
 			<BlurredBubblesBackground colors={siteContent.backgroundColors} regenerateKey={regenerateKey} />
 			<main className='relative z-10 h-full'>
 				{children}
