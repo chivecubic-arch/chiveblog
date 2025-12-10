@@ -1,4 +1,4 @@
-# 2025 Blog
+# chive Blog
 
 > 最新引导说明：https://www.yysuni.com/blog/readme
 
@@ -10,7 +10,7 @@
 
 ```ts
 export const GITHUB_CONFIG = {
-	OWNER: process.env.NEXT_PUBLIC_GITHUB_OWNER || 'yysuni',
+	OWNER: process.env.NEXT_PUBLIC_GITHUB_OWNER || 'chive',
 	REPO: process.env.NEXT_PUBLIC_GITHUB_REPO || 'chiveblog',
 	BRANCH: process.env.NEXT_PUBLIC_GITHUB_BRANCH || 'main',
 	APP_ID: process.env.NEXT_PUBLIC_GITHUB_APP_ID || '-'
