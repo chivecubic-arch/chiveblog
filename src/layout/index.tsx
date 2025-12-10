@@ -50,7 +50,7 @@ export default function Layout({ children }: PropsWithChildren) {
 						backgroundRepeat: 'no-repeat'
 					}}
 				/>
-			<LiquidGrass />)}
+			)}<LiquidGrass />
 			<BlurredBubblesBackground colors={siteContent.backgroundColors} regenerateKey={regenerateKey} />
 			<main className='relative z-10 h-full'>
 				{children}
