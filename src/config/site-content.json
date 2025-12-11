@@ -1,7 +1,7 @@
 {
 	"meta": {
 		"title": "Chiveblog",
-		"description": "Chiveblog 的个人博客，记录前端开发、探索、笔记。前端 UI 更新代码仓库。",
+		"description": "Chiveblog 的个人博客，介绍资源DIY、Web3学习笔记和其他教程。",
 		"username": "Chive"
 	},
 	"theme": {
@@ -42,18 +42,25 @@
 	"currentBackgroundImageId": "",
 	"socialButtons": [
 		{
-			"id": "github",
-			"type": "github",
-			"value": "https://github.com/chivecubic-arch",
-			"label": "Github",
-			"order": 3
-		},
-		{
 			"id": "email",
 			"type": "email",
 			"value": "chivecubic@gmail.com",
 			"label": "",
 			"order": 1
+		},
+		{
+			"id": "button-1765437169469",
+			"type": "tg",
+			"value": "https://t.me/Loki_Professed",
+			"label": "Telegram",
+			"order": 2
+		},
+		{
+			"id": "github",
+			"type": "github",
+			"value": "https://github.com/chivecubic-arch",
+			"label": "Github",
+			"order": 3
 		}
 	],
 	"clockShowSeconds": false,
