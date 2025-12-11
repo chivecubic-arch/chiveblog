@@ -234,7 +234,7 @@
 ---
 
 **导航：**
-[⬅️ 返回第三层](web3.html) | [⬅️ 返回主页](../index.html) | [➡️ 前往第五层](web5.html)
+[⬅️ 返回第三层](https://881660.xyz/blog/web3) | [⬅️ 返回主页](https://881660.xyz/blog/web0) | [➡️ 前往第五层](https://881660.xyz/blog/web5)
 
 ---
 
