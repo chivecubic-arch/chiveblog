@@ -431,6 +431,6 @@ module.exports = {
 ---
 
 **导航：**
-[⬅️ 返回第五层](web5.html) | [⬅️ 返回主页](../index.html) | [➡️ 前往第七层](web7.html)
+[⬅️ 返回第五层](https://881660.xyz/blog/web5) | [⬅️ 返回主页](https://881660.xyz/blog/web0) | [➡️ 前往第七层](https://881660.xyz/blog/web7)
 
 ---
