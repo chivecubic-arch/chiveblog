@@ -347,6 +347,6 @@ DAO（Decentralized Autonomous Organization）是由智能合约自动执行的�
 ---
 
 **导航：**
-[⬅️ 返回第四层](web4.html) | [⬅️ 返回主页](../index.html) | [➡️ 前往第六层](web6.html)
+[⬅️ 返回第四层](https://881660.xyz/blog/web4) | [⬅️ 返回主页](https://881660.xyz/blog/web0) | [➡️ 前往第六层](https://881660.xyz/blog/web6)
 
 ---
