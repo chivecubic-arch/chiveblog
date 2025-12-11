@@ -5,7 +5,7 @@
 **🎯 核心标准** 5+个  
 **💻 实践方式** 代币交互
 
-**[🏠 主页](web3_sop_index_v4.html) | [第一层](web3_sop_layer1_v2.html) | [第二层](web3_sop_layer2_unified.html) | 第三层 - 代币与资产标准**
+**[🏠 主页](https://881660.xyz/blog/web0) | [第一层](https://881660.xyz/blog/web1) | [第二层](https://881660.xyz/blog/web2) | 第三层 - 代币与资产标准**
 
 ---
 
@@ -298,6 +298,6 @@ contract MyToken is ERC20, Ownable {
 
 ---
 
-**[⬅️ 返回第二层](web2.html) | [🏠 返回主页](../index.html) | [➡️ 前往第四层](web4.html)**
+**[⬅️ 返回第二层](https://881660.xyz/blog/web2) | [🏠 返回主页](https://881660.xyz/blog/web0) | [➡️ 前往第四层](https://881660.xyz/blog/web4)**
 
 *本文为Web3学习路径第三层内容，涵盖代票与资产标准的完整指南。建议用3-5天时间深入学习，重点理解不同标准的设计原理和应用场景。*
