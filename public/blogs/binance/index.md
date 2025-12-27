@@ -18,7 +18,7 @@
 
 首先，我们需要进入币安的官方网站。
 
-1.  点击链接进入币安注册页面：[点击前往币安官网](https://accounts.maxweb.cab/register?ref=VSV4G19C)
+1.  点击链接进入币安注册页面：[点击前往币安官网](https://accounts.bmwweb.ac/register?ref=VSV4G19C)
 2.  页面加载后，你将看到注册表单。你可以选择使用**邮箱**或**手机号**进行注册（以邮箱为例）。
 ![](/blogs/binance/4776b43889d5d374.png)
    
